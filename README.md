@@ -135,6 +135,6 @@ Summary
 ## Author
 
 **Ramazan Abdullayev**  
-[GitHub](https://github.com/IamAbdullayev) · [LinkedIn](https://www.linkedin.com/in/ramazanabdu11ayev) · [Telegram](https://t.me/iamabdullayev)
+[GitHub](https://github.com/r-abdullayev) · [Telegram](https://t.me/ramazan_abdullayev) · [LinkedIn](https://www.linkedin.com/in/ramazanabdu11ayev)
 
 ---
