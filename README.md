@@ -2,16 +2,16 @@
 # E-Commerce API
 The E-Commerce-API is a comprehensive backend service for an online store called Dream Shops. Built using Java and Spring Boot, this RESTful API supports all core functionalities required to operate an e-commerce platform. The project is modularized into several key packages to organize the codebase clearly and efficiently. (The payment system is currently under development.)
 
-## 🧩 Features
+## Features
 
-- ✅ User registration & login with role-based access control  
-- 🛒 Product listing and management (CRUD)  
-- 📦 Order creation and tracking  
-- 🔐 Secure authentication using Spring Security & JWT  
-- 🗃️ Database integration with Spring Data JPA (MySQL)  
-- 🧪 Input validation and exception handling  
+- User registration & login with role-based access control  
+- Product listing and management (CRUD)  
+- Order creation and tracking  
+- Secure authentication using Spring Security & JWT  
+- Database integration with Spring Data JPA (MySQL)  
+- Input validation and exception handling  
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Java 17  
 - **Frameworks:** Spring Boot, Spring Security, Spring Data JPA  
@@ -19,7 +19,7 @@ The E-Commerce-API is a comprehensive backend service for an online store called
 - **Build Tool:** Maven  
 - **Other Tools:** Git, Postman, Lombok
 
-## 🔐 Authentication
+## Authentication
 
 This API uses JWT (JSON Web Token) for secure authentication. Access tokens are provided on login and must be included in the `Authorization` header for protected endpoints:
 
@@ -27,7 +27,7 @@ This API uses JWT (JSON Web Token) for secure authentication. Access tokens are 
 Authorization: Bearer <token>
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 E-Commerce-API-main/
@@ -102,7 +102,7 @@ Summary
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -125,14 +125,14 @@ Summary
 
 4. **Test API with Postman or curl**
 
-## 🧪 Example Endpoints
+## Example Endpoints
 
 - `POST /api/v1/auth/register` – Register a new user  
 - `POST /api/v1/auth/login` – Authenticate user and receive JWT  
 - `GET /api/v1/products` – Get list of all products  
 - `POST /api/v1/orders` – Create a new order (authenticated)
 
-## 🧠 Author
+## Author
 
 **Ramazan Abdullayev**  
 [GitHub](https://github.com/IamAbdullayev) · [LinkedIn](https://www.linkedin.com/in/ramazanabdu11ayev) · [Telegram](https://t.me/iamabdullayev)
